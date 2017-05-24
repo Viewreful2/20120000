@@ -8,10 +8,6 @@ for text_case in range(t) :
         flag = False
         for i in range(5) :
             for j in range(5) :
-                
-                
-                
-                
                 if(arr[i][j] == num[k]) :
                     arr[i][j] = 0
                     flag = True
