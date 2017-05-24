@@ -11,7 +11,7 @@ for text_case in range(t) :
                 if(arr[i][j] == num[k]) :
                     arr[i][j] = 0
                     flag = True
-                    breakfdsafdsafsafdsa
+                    break
             if(flag == True) :
                 break
         if(flag == True ) :
